@@ -1,5 +1,9 @@
 ## Welcome to my GitHub profile 👋
 
+Hi! I'm Pascal, a `/(System Engineer|DevOps|Developer)/` from Bern, Switzerland.
+
+I like to contribute to open source projects in my free time.
+
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github)](https://github.com/sponsors/paescuj)
 
 
