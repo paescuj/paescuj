@@ -7,11 +7,13 @@
 <details><summary><strong>Co-maintainer</strong></summary>
 
 - [concurrently](https://github.com/open-cli-tools/concurrently)
+  > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. 
 
   [![Stars of concurrently on GitHub](https://img.shields.io/github/stars/open-cli-tools/concurrently?label=Stars&logo=github)](https://github.com/open-cli-tools/concurrently)
   [![Weekly Downloads on NPM](https://img.shields.io/npm/dw/concurrently?label=Downloads&logo=npm)](https://www.npmjs.com/package/concurrently)
   [![Dependent repos of concurrently](https://img.shields.io/librariesio/dependent-repos/npm/concurrently?label=Dependent%20Repos)](https://github.com/open-cli-tools/concurrently)
 - [skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions)
+  > Save time and cost when using GitHub Actions
 
   [![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/github/stars/fkirc/skip-duplicate-actions?label=Stars&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 
