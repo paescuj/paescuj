@@ -18,17 +18,17 @@ I like to contribute to open source projects in my free time.
 
 > Job Application Assistant - Keep track of your ongoing job applications and impress your future employer with a unique way of applying
 
-[![Top language of jaa](https://img.shields.io/github/languages/top/paescuj/jaa)](https://github.com/paescuj/jaa)
 [![License of jaa](https://img.shields.io/github/license/paescuj/jaa?label=License)](https://github.com/paescuj/jaa)
+[![Top language of jaa](https://img.shields.io/github/languages/top/paescuj/jaa)](https://github.com/paescuj/jaa)
 
 ---
 
 [**universe**](https://github.com/paescuj/universe)
 
-> Repo to track my starred GitHub repositories - "My god, it's full of stars"
+> My god, it's full of stars
 
-[![Top language of universe](https://img.shields.io/github/languages/top/paescuj/universe)](https://github.com/paescuj/universe)
 [![License of universe](https://img.shields.io/github/license/paescuj/universe?label=License)](https://github.com/paescuj/universe)
+[![Top language of universe](https://img.shields.io/github/languages/top/paescuj/universe)](https://github.com/paescuj/universe)
 
 ---
 
@@ -46,6 +46,7 @@ I like to contribute to open source projects in my free time.
 [![Stars of concurrently on GitHub](https://img.shields.io/github/stars/open-cli-tools/concurrently?label=Stars&logo=github)](https://github.com/open-cli-tools/concurrently)
 [![Weekly downloads of concurrently on NPM](https://img.shields.io/npm/dw/concurrently?label=Downloads&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/librariesio/dependent-repos/npm/concurrently?label=Dependent%20Repos)](https://github.com/open-cli-tools/concurrently)
+[![Top language of concurrently](https://img.shields.io/github/languages/top/open-cli-tools/concurrently)](https://github.com/open-cli-tools/concurrently)
 
 ---
 
@@ -54,6 +55,7 @@ I like to contribute to open source projects in my free time.
 > Save time and cost when using GitHub Actions
 
 [![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/github/stars/fkirc/skip-duplicate-actions?label=Stars&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Top language of skip-duplicate-actions](https://img.shields.io/github/languages/top/fkirc/skip-duplicate-actions)](https://github.com/fkirc/skip-duplicate-actions)
 
 ---
 
@@ -69,6 +71,8 @@ I like to contribute to open source projects in my free time.
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 [![Stars of Directus on GitHub](https://img.shields.io/github/stars/directus/directus?label=Stars&logo=github)](https://github.com/directus/directus)
+[![Weekly downloads of Directus on NPM](https://img.shields.io/npm/dw/directus?label=Downloads&logo=npm)](https://www.npmjs.com/package/directus)
+[![Top language of Directus](https://img.shields.io/github/languages/top/directus/directus)](https://github.com/directus/directus)
 
 ---
 
@@ -77,7 +81,19 @@ I like to contribute to open source projects in my free time.
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
 [![Stars of Iconoir on GitHub](https://img.shields.io/github/stars/iconoir-icons/iconoir?label=Stars&logo=github)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of Iconoir on NPM](https://img.shields.io/npm/dw/iconoir?label=Downloads&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Top language of Iconoir](https://img.shields.io/github/languages/top/iconoir-icons/iconoir)](https://github.com/iconoir-icons/iconoir)
+
+---
+
+[**Kodiak**](https://github.com/chdsbd/kodiak)
+
+> 🔮 A bot to automatically update and merge GitHub PRs
+
+[![Stars of Kodiak on GitHub](https://img.shields.io/github/stars/chdsbd/kodiak?label=Stars&logo=github)](https://github.com/chdsbd/kodiak)
+[![Top language of Kodiak](https://img.shields.io/github/languages/top/chdsbd/kodiak)](https://github.com/chdsbd/kodiak)
 
 ---
 
 </details>
+
