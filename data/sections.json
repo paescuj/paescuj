@@ -1,0 +1,33 @@
+{
+  "Some of my projects... ✨": {
+    "jaa": {
+      "repo": "paescuj/jaa",
+      "badges": ["language", "license"]
+    },
+    "universe": {
+      "repo": "paescuj/universe",
+      "badges": ["language", "license"]
+    }
+  },
+  "I'm a co-maintainer of... 👨‍💻": {
+    "concurrently": {
+      "repo": "open-cli-tools/concurrently",
+      "badges": ["stars", "downloads", "dependent_repos"]
+    },
+    "skip-duplicate-actions": {
+      "repo": "fkirc/skip-duplicate-actions",
+      "badges": ["stars"]
+    }
+  },
+  "Some of my contributions went to... ❤️": {
+    "Directus": {
+      "repo": "directus/directus",
+      "badges": ["stars"]
+    },
+    "Iconoir": {
+      "repo": "iconoir-icons/iconoir",
+      "badges": ["stars"]
+    }
+  }
+}
+
