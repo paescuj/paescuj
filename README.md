@@ -14,7 +14,7 @@ I like to contribute to open source projects in my free time.
 
 ---
 
-[**jaa**](https://github.com/paescuj/jaa)
+[paescuj](https://github.com/paescuj) / [**jaa**](https://github.com/paescuj/jaa)
 
 > Job Application Assistant - Keep track of your ongoing job applications and impress your future employer with a unique way of applying
 
@@ -23,7 +23,7 @@ I like to contribute to open source projects in my free time.
 
 ---
 
-[**universe**](https://github.com/paescuj/universe)
+[paescuj](https://github.com/paescuj) / [**universe**](https://github.com/paescuj/universe)
 
 > My god, it's full of stars
 
@@ -39,7 +39,7 @@ I like to contribute to open source projects in my free time.
 
 ---
 
-[**concurrently**](https://github.com/open-cli-tools/concurrently)
+[open-cli-tools](https://github.com/open-cli-tools) / [**concurrently**](https://github.com/open-cli-tools/concurrently)
 
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
@@ -50,7 +50,7 @@ I like to contribute to open source projects in my free time.
 
 ---
 
-[**skip-duplicate-actions**](https://github.com/fkirc/skip-duplicate-actions)
+[fkirc](https://github.com/fkirc) / [**skip-duplicate-actions**](https://github.com/fkirc/skip-duplicate-actions)
 
 > Save time and cost when using GitHub Actions
 
@@ -66,32 +66,32 @@ I like to contribute to open source projects in my free time.
 
 ---
 
-[**Directus**](https://github.com/directus/directus)
+[directus](https://github.com/directus) / [**directus**](https://github.com/directus/directus)
 
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
-[![Stars of Directus on GitHub](https://img.shields.io/github/stars/directus/directus?label=Stars&logo=github)](https://github.com/directus/directus)
-[![Weekly downloads of Directus on NPM](https://img.shields.io/npm/dw/directus?label=Downloads&logo=npm)](https://www.npmjs.com/package/directus)
-[![Top language of Directus](https://img.shields.io/github/languages/top/directus/directus)](https://github.com/directus/directus)
+[![Stars of directus on GitHub](https://img.shields.io/github/stars/directus/directus?label=Stars&logo=github)](https://github.com/directus/directus)
+[![Weekly downloads of directus on NPM](https://img.shields.io/npm/dw/directus?label=Downloads&logo=npm)](https://www.npmjs.com/package/directus)
+[![Top language of directus](https://img.shields.io/github/languages/top/directus/directus)](https://github.com/directus/directus)
 
 ---
 
-[**Iconoir**](https://github.com/iconoir-icons/iconoir)
+[iconoir-icons](https://github.com/iconoir-icons) / [**iconoir**](https://github.com/iconoir-icons/iconoir)
 
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
-[![Stars of Iconoir on GitHub](https://img.shields.io/github/stars/iconoir-icons/iconoir?label=Stars&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of Iconoir on NPM](https://img.shields.io/npm/dw/iconoir?label=Downloads&logo=npm)](https://www.npmjs.com/package/iconoir)
-[![Top language of Iconoir](https://img.shields.io/github/languages/top/iconoir-icons/iconoir)](https://github.com/iconoir-icons/iconoir)
+[![Stars of iconoir on GitHub](https://img.shields.io/github/stars/iconoir-icons/iconoir?label=Stars&logo=github)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/npm/dw/iconoir?label=Downloads&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Top language of iconoir](https://img.shields.io/github/languages/top/iconoir-icons/iconoir)](https://github.com/iconoir-icons/iconoir)
 
 ---
 
-[**Kodiak**](https://github.com/chdsbd/kodiak)
+[chdsbd](https://github.com/chdsbd) / [**kodiak**](https://github.com/chdsbd/kodiak)
 
 > 🔮 A bot to automatically update and merge GitHub PRs
 
-[![Stars of Kodiak on GitHub](https://img.shields.io/github/stars/chdsbd/kodiak?label=Stars&logo=github)](https://github.com/chdsbd/kodiak)
-[![Top language of Kodiak](https://img.shields.io/github/languages/top/chdsbd/kodiak)](https://github.com/chdsbd/kodiak)
+[![Stars of kodiak on GitHub](https://img.shields.io/github/stars/chdsbd/kodiak?label=Stars&logo=github)](https://github.com/chdsbd/kodiak)
+[![Top language of kodiak](https://img.shields.io/github/languages/top/chdsbd/kodiak)](https://github.com/chdsbd/kodiak)
 
 ---
 

@@ -1,39 +1,39 @@
 {
-  "Some of my projects... ✨": {
-    "jaa": {
+  "Some of my projects... ✨": [
+    {
       "repo": "paescuj/jaa",
       "badges": ["license", "language"]
     },
-    "universe": {
+    {
       "repo": "paescuj/universe",
       "badges": ["license", "language"]
     }
-  },
-  "I'm a co-maintainer of... 👨‍💻": {
-    "concurrently": {
+  ],
+  "I'm a co-maintainer of... 👨‍💻": [
+    {
       "repo": "open-cli-tools/concurrently",
       "badges": ["stars", "downloads", "dependent_repos", "language"]
     },
-    "skip-duplicate-actions": {
+    {
       "repo": "fkirc/skip-duplicate-actions",
       "badges": ["stars", "language"]
     }
-  },
-  "Some of my contributions went to... ❤️": {
-    "Directus": {
+  ],
+  "Some of my contributions went to... ❤️": [
+    {
       "repo": "directus/directus",
       "npm": "directus",
       "badges": ["stars", "downloads", "language"]
     },
-    "Iconoir": {
+    {
       "repo": "iconoir-icons/iconoir",
       "npm": "iconoir",
       "badges": ["stars", "downloads", "language"]
     },
-    "Kodiak": {
+    {
       "repo": "chdsbd/kodiak",
       "badges": ["stars", "language"]
     }
-  }
+  ]
 }
 
