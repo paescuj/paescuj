@@ -1,6 +1,11 @@
-## Welcome to my GitHub profile 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./data/peace-hand-dark.svg">
+  <img alt="Peace Hand" align="right" width="140px" src="./data/peace-hand-light.svg">
+</picture>
 
-Hi! I'm Pascal, a `/(System Engineer|DevOps|Developer)/` from Bern, Switzerland.
+# Welcome to my GitHub profile
+
+Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern, Switzerland.
 
 I like to contribute to open source projects in my free time.
 
