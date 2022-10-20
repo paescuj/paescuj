@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./data/peace-hand-dark.svg">
-  <img alt="Peace Hand" align="right" width="140px" src="./data/peace-hand-light.svg">
+  <img alt="Peace Hand" align="right" width="16%" src="./data/peace-hand-light.svg">
 </picture>
 
 # Welcome to my GitHub profile
