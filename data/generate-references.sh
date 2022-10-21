@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+SCRIPT_DIR=$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)
+
 getBadge() {
   declare name="$1" repo="$2" npm="$3" type="$4"
 
@@ -31,9 +33,7 @@ getBadge() {
   printf '[![%s](%s)](%s)' "$alt" "$url" "$link" 
 }
 
-cat data/header.md
-
-jq --compact-output 'to_entries | .[]' data/sections.json | while read section; do
+jq --compact-output 'to_entries | .[]' "${SCRIPT_DIR}/sections.json" | while read section; do
   title=$(echo "$section" | jq --raw-output '.key')
   entries=$(echo "$section" | jq --compact-output '.value | .[]')
 
@@ -60,5 +60,3 @@ jq --compact-output 'to_entries | .[]' data/sections.json | while read section; 
 
   printf '</p>\n</details>\n\n'
 done
-
-cat data/footer.md

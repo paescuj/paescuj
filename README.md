@@ -1,3 +1,5 @@
+<!-- HELO from the other side! -->
+
 <a href="https://iconoir.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./data/peace-hand-dark.svg">
@@ -11,7 +13,9 @@
 
 Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern (<span title="Switzerland">🇨🇭</span>).
 
-Besides realizing my own ideas, I enjoy contributing to other open source projects in my spare time.
+In my spare time I like to contribute to open source projects and occasionally design and realize my own stuff.
+
+<!-- references:start -->
 
 <details><summary><strong>✨ Some of my projects... </strong></summary>
 <p>
@@ -88,7 +92,7 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 
 </p>
 
-> null
+> The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 [![Stars of directus on GitHub](https://img.shields.io/github/stars/directus/directus?label=Stars&logo=github)](https://github.com/directus/directus)
 [![Weekly downloads of directus on NPM](https://img.shields.io/npm/dw/directus?label=Downloads&logo=npm)](https://www.npmjs.com/package/directus)
@@ -102,7 +106,7 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 
 </p>
 
-> null
+> An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/github/stars/iconoir-icons/iconoir?label=Stars&logo=github)](https://github.com/iconoir-icons/iconoir)
 [![Weekly downloads of iconoir on NPM](https://img.shields.io/npm/dw/iconoir?label=Downloads&logo=npm)](https://www.npmjs.com/package/iconoir)
@@ -116,7 +120,7 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 
 </p>
 
-> null
+> 🔮 A bot to automatically update and merge GitHub PRs
 
 [![Stars of kodiak on GitHub](https://img.shields.io/github/stars/chdsbd/kodiak?label=Stars&logo=github)](https://github.com/chdsbd/kodiak)
 [![Top language of kodiak](https://img.shields.io/github/languages/top/chdsbd/kodiak)](https://github.com/chdsbd/kodiak)
@@ -124,6 +128,10 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 </td></tr></table>
 </p>
 </details>
+
+<!-- references:end -->
+
+<h2></h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
