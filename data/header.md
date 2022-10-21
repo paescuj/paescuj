@@ -5,12 +5,10 @@
   </picture>
 </a>
 
-# Welcome to my GitHub profile
-
-Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern (🇨🇭).
-
-Besides realizing my own ideas, I enjoy contributing to other open source projects in my spare time.
+# Welcome to my GitHub profile!
 
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20Me&message=%E2%9D%A4&logo=github)](https://github.com/sponsors/paescuj)
 
-[![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=material-palenight&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern (<span title="Switzerland">🇨🇭</span>).
+
+Besides realizing my own ideas, I enjoy contributing to other open source projects in my spare time.

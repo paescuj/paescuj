@@ -37,9 +37,10 @@ jq --compact-output 'to_entries | .[]' data/sections.json | while read section; 
   title=$(echo "$section" | jq --raw-output '.key')
   entries=$(echo "$section" | jq --compact-output '.value | .[]')
 
-  printf '\n<details><summary><strong>%s</strong></summary>\n\n---\n\n' "$title"
+  printf '\n<details><summary><strong>%s</strong></summary>\n<p>\n' "$title"
 
   while read entry; do
+    printf '<table><tr><td width="550px">\n'
     repo=$(echo "$entry" | jq --raw-output '.repo')
     owner=${repo%/*}
     name=${repo#*/}
@@ -47,16 +48,17 @@ jq --compact-output 'to_entries | .[]' data/sections.json | while read section; 
     badges=$(echo "$entry" | jq --compact-output --raw-output '.badges | .[]')
     description=$(curl --silent --header 'Accept: application/vnd.github+json' "https://api.github.com/repos/${repo}" | jq --raw-output '.description')
 
-    printf '[%s](%s) / [**%s**](%s)\n\n' "$owner" "https://github.com/${owner}" "$name" "https://github.com/${repo}"
+    printf '<p>\n\n[%s](%s) / [**%s**](%s)\n\n</p>\n\n' "$owner" "https://github.com/${owner}" "$name" "https://github.com/${repo}"
     printf '> %s\n\n' "$description"
 
     while read badge; do
       printf '%s\n' "$(getBadge "$name" "$repo" "$npm" "$badge")"
     done <<< "$badges"
 
-    printf '\n---\n\n'
+    printf '\n</td></tr></table>\n'
   done <<< "$entries"
 
-  printf '</details>\n\n'
+  printf '</p>\n</details>\n\n'
 done
 
+cat data/footer.md
