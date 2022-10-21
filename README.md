@@ -15,7 +15,7 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 
 [![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=material-palenight&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<details><summary><strong>Some of my projects... ✨</strong></summary>
+<details><summary><strong>✨ Some of my projects... </strong></summary>
 
 ---
 
@@ -40,7 +40,7 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 </details>
 
 
-<details><summary><strong>I'm a co-maintainer of... 👨‍💻</strong></summary>
+<details><summary><strong>👨‍💻 I'm a co-maintainer of...</strong></summary>
 
 ---
 
@@ -67,7 +67,7 @@ Besides realizing my own ideas, I enjoy contributing to other open source projec
 </details>
 
 
-<details><summary><strong>Some of my contributions went to... ❤️</strong></summary>
+<details><summary><strong>❤️ Some of my contributions went to...</strong></summary>
 
 ---
 

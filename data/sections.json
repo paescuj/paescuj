@@ -1,5 +1,5 @@
 {
-  "Some of my projects... ✨": [
+  "✨ Some of my projects... ": [
     {
       "repo": "paescuj/jaa",
       "badges": ["license", "language"]
@@ -9,7 +9,7 @@
       "badges": ["license", "language"]
     }
   ],
-  "I'm a co-maintainer of... 👨‍💻": [
+  "👨‍💻 I'm a co-maintainer of...": [
     {
       "repo": "open-cli-tools/concurrently",
       "badges": ["stars", "downloads", "dependent_repos", "language"]
@@ -19,7 +19,7 @@
       "badges": ["stars", "language"]
     }
   ],
-  "Some of my contributions went to... ❤️": [
+  "❤️ Some of my contributions went to...": [
     {
       "repo": "directus/directus",
       "npm": "directus",
