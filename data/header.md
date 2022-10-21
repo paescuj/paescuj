@@ -7,7 +7,7 @@
 
 # Welcome to my GitHub profile
 
-Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern, Switzerland.
+Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern (🇨🇭).
 
 Besides realizing my own ideas, I enjoy contributing to other open source projects in my spare time.
 
