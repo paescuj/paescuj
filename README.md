@@ -12,14 +12,14 @@
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20&message=<3&logo=github&color=D87CAC)](https://github.com/sponsors/paescuj)
 [![Random xkcd](https://img.shields.io/static/v1?label=Need%20a%20little%20distraction%3F&message=%3A-\)&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAW9yTlQBz6J3mgAAAQpJREFUOMuFksGRAjEMBFsXifwjPIgAyIAQSIMoePK8zWTuIdmWt7Y415Zsy1rNSCP4Zxn6/v4TezMza8cxkryfXfsVAUu0dAW4lgDPl0zhNRsg5Y+K04qHoVJJ3AbeqELVlVR+C68Void3CskR4NIolsEBSzwQ2CA0OTiYmYEDbPG+Lb3xWnlSKBCLakdlQjMIsS6z7xeACGgbwHYkpyV/xVdAVOahBX2nxY2yRaO86+RhIM5VzW7WaAWWS95tujUSM4dgCOF96yPXZUzJ3gDvVCz7wGkUAS+eT17LnMJHMwXcbvOMxtN0Sh2Dg0bdecBjYux+leAsnTv7nKgugnY2tJgTgJVbcX9bf3OTN7JOWfWeAAAAAElFTkSuQmCC&color=008DD5)](https://c.xkcd.com/random/comic/)
 
-Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern (<span title="Switzerland">🇨🇭</span>).  
+Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern (<span title="Switzerland">🇨🇭</span>).<br> 
 In my spare time I like to contribute to open source projects and occasionally design and realize my own stuff.
 
 <!-- references:start -->
 
 <details><summary><strong>✨ Some of my projects... </strong></summary>
 <p>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [paescuj](https://github.com/paescuj) / [**jaa**](https://github.com/paescuj/jaa)
@@ -32,7 +32,7 @@ In my spare time I like to contribute to open source projects and occasionally d
 [![Top language of jaa](https://img.shields.io/github/languages/top/paescuj/jaa)](https://github.com/paescuj/jaa)
 
 </td></tr></table>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [paescuj](https://github.com/paescuj) / [**universe**](https://github.com/paescuj/universe)
@@ -51,7 +51,7 @@ In my spare time I like to contribute to open source projects and occasionally d
 
 <details><summary><strong>👨‍💻 I'm a co-maintainer of...</strong></summary>
 <p>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [open-cli-tools](https://github.com/open-cli-tools) / [**concurrently**](https://github.com/open-cli-tools/concurrently)
@@ -66,7 +66,7 @@ In my spare time I like to contribute to open source projects and occasionally d
 [![Top language of concurrently](https://img.shields.io/github/languages/top/open-cli-tools/concurrently)](https://github.com/open-cli-tools/concurrently)
 
 </td></tr></table>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [fkirc](https://github.com/fkirc) / [**skip-duplicate-actions**](https://github.com/fkirc/skip-duplicate-actions)
@@ -85,7 +85,7 @@ In my spare time I like to contribute to open source projects and occasionally d
 
 <details><summary><strong>❤️ Some of my contributions went to...</strong></summary>
 <p>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [directus](https://github.com/directus) / [**directus**](https://github.com/directus/directus)
@@ -99,7 +99,7 @@ In my spare time I like to contribute to open source projects and occasionally d
 [![Top language of directus](https://img.shields.io/github/languages/top/directus/directus)](https://github.com/directus/directus)
 
 </td></tr></table>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [iconoir-icons](https://github.com/iconoir-icons) / [**iconoir**](https://github.com/iconoir-icons/iconoir)
@@ -113,7 +113,7 @@ In my spare time I like to contribute to open source projects and occasionally d
 [![Top language of iconoir](https://img.shields.io/github/languages/top/iconoir-icons/iconoir)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
-<table><tr><td width="550px">
+<table><tr><td width="500px">
 <p>
 
 [chdsbd](https://github.com/chdsbd) / [**kodiak**](https://github.com/chdsbd/kodiak)
@@ -136,6 +136,6 @@ In my spare time I like to contribute to open source projects and occasionally d
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./data/stats-dark.svg">
-    <img alt="Pascal's GitHub Statistics" width="550px" src="./data/stats-light.svg">
+    <img alt="Pascal's GitHub Statistics" src="./data/stats-light.svg">
   </picture>
 </a>

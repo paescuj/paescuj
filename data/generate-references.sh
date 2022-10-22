@@ -40,7 +40,7 @@ jq --compact-output 'to_entries | .[]' "${SCRIPT_DIR}/sections.json" | while rea
   printf '\n<details><summary><strong>%s</strong></summary>\n<p>\n' "$title"
 
   while read entry; do
-    printf '<table><tr><td width="550px">\n'
+    printf '<table><tr><td width="500px">\n'
     repo=$(echo "$entry" | jq --raw-output '.repo')
     owner=${repo%/*}
     name=${repo#*/}
