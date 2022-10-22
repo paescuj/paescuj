@@ -133,13 +133,10 @@ In my spare time I like to contribute to open source projects and occasionally d
 <h2></h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
+  <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="./data/stats-dark.svg">
-    <img alt="Pascal's GitHub Statistics" align="left" width="550px" height="165px" src="./data/stats-light.svg">
+    <img alt="Pascal's GitHub Statistics" width="550px" height="165px" src="./data/stats-light.svg">
   </picture>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./data/langs-dark.svg">
     <img alt="Pascal's GitHub Languages" height="165px" src="./data/langs-light.svg">
