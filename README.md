@@ -137,4 +137,5 @@ In my spare time I like to contribute to open source projects and occasionally d
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./data/stats-dark.svg">
     <img alt="Pascal's GitHub Stats" width="550px" src="./data/stats-light.svg">
+  </picture>
 </a>
