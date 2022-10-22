@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 106.00747336112966;
+        stroke-dashoffset: 105.99959731803963;
       }
     }
   
@@ -106,7 +106,7 @@
           stroke="#e4e2e2"
           width="494"
           fill="#ffffff"
-          stroke-opacity="0"
+          stroke-opacity="1"
         />
 
         

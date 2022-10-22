@@ -138,6 +138,7 @@ In my spare time I like to contribute to open source projects and occasionally d
     <img alt="Pascal's GitHub Statistics" align="left" width="550px" height="165px" src="./data/stats-light.svg">
   </picture>
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./data/langs-dark.svg">
