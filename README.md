@@ -135,6 +135,6 @@ In my spare time I like to contribute to open source projects and occasionally d
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=material-palenight&hide_border=true&hide_title=true&include_all_commits=true">
-    <img alt="Pascal's GitHub Stats" width="550px" src="https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=graywhite&hide_title=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: dark)" srcset="./data/stats-dark.svg">
+    <img alt="Pascal's GitHub Stats" width="550px" src="./data/stats-light.svg">
 </a>
