@@ -1,0 +1,32 @@
+name: Update References
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+  push:
+    paths:
+      - .github/workflows/update-references.yml
+      - data/generate-references.sh
+      - data/references.json
+
+jobs:
+  update:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate references
+      run: |
+        awk -i inplace '
+            BEGIN {p=1}
+            /^<!-- references:start -->/{print;system("./data/generate-references.sh");p=0}
+            /^<!-- references:end -->/{p=1}
+            p' README.md
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update references

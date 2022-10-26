@@ -33,7 +33,7 @@ getBadge() {
   printf '[![%s](%s)](%s)' "$alt" "$url" "$link" 
 }
 
-jq --compact-output 'to_entries | .[]' "${SCRIPT_DIR}/sections.json" | while read section; do
+jq --compact-output 'to_entries | .[]' "${SCRIPT_DIR}/references.json" | while read section; do
   title=$(echo "$section" | jq --raw-output '.key')
   entries=$(echo "$section" | jq --compact-output '.value | .[]')
 
