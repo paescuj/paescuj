@@ -1,0 +1,24 @@
+name: Update Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * mon"
+
+jobs:
+  update:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Fetch stats
+      run: |
+        wget -q -O data/stats-light.svg 'https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=graywhite&hide_title=true&include_all_commits=true&card_width=500px'
+        wget -q -O data/stats-dark.svg 'https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&include_all_commits=true&card_width=500px'
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update stats
