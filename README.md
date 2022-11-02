@@ -13,7 +13,7 @@
 [![Random xkcd](https://img.shields.io/static/v1?label=Need%20a%20little%20distraction%3F&message=%3A-\)&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAW9yTlQBz6J3mgAAAQpJREFUOMuFksGRAjEMBFsXifwjPIgAyIAQSIMoePK8zWTuIdmWt7Y415Zsy1rNSCP4Zxn6/v4TezMza8cxkryfXfsVAUu0dAW4lgDPl0zhNRsg5Y+K04qHoVJJ3AbeqELVlVR+C68Void3CskR4NIolsEBSzwQ2CA0OTiYmYEDbPG+Lb3xWnlSKBCLakdlQjMIsS6z7xeACGgbwHYkpyV/xVdAVOahBX2nxY2yRaO86+RhIM5VzW7WaAWWS95tujUSM4dgCOF96yPXZUzJ3gDvVCz7wGkUAS+eT17LnMJHMwXcbvOMxtN0Sh2Dg0bdecBjYux+leAsnTv7nKgugnY2tJgTgJVbcX9bf3OTN7JOWfWeAAAAAElFTkSuQmCC&color=008DD5)](https://c.xkcd.com/random/comic/)
 
 Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern <span title="Switzerland">🇨🇭</span>.<br> 
-In my spare time I like to contribute to open source projects and occasionally design, realize and publish my own stuff.
+As a big fan of open source, I love to contribute to open source projects in my free time and occasionally design, realize and publish my own stuff.
 
 <!-- references:start -->
 
