@@ -37,7 +37,7 @@ jq --compact-output 'to_entries | .[]' "${SCRIPT_DIR}/references.json" | while r
   title=$(echo "$section" | jq --raw-output '.key')
   entries=$(echo "$section" | jq --compact-output '.value | .[]')
 
-  printf '\n<details><summary><strong>%s</strong></summary>\n<p>\n' "$title"
+  printf '\n<details><summary><strong>%s</strong></summary>\n<p><ul>\n' "$title"
 
   while read entry; do
     printf '<table><tr><td width="500px">\n'
@@ -58,5 +58,5 @@ jq --compact-output 'to_entries | .[]' "${SCRIPT_DIR}/references.json" | while r
     printf '\n</td></tr></table>\n'
   done <<< "$entries"
 
-  printf '</p>\n</details>\n\n'
+  printf '</ul></p>\n</details>\n\n'
 done
