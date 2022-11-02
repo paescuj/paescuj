@@ -18,7 +18,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <!-- references:start -->
 
 <details><summary><strong>✨ Some of my projects... </strong></summary>
-<p>
+<p><ul>
 <table><tr><td width="500px">
 <p>
 
@@ -45,12 +45,12 @@ As a big fan of open source, I love to contribute to open source projects in my 
 [![Top language of universe](https://img.shields.io/github/languages/top/paescuj/universe)](https://github.com/paescuj/universe)
 
 </td></tr></table>
-</p>
+</ul></p>
 </details>
 
 
 <details><summary><strong>👨‍💻 I'm a co-maintainer of...</strong></summary>
-<p>
+<p><ul>
 <table><tr><td width="500px">
 <p>
 
@@ -79,12 +79,12 @@ As a big fan of open source, I love to contribute to open source projects in my 
 [![Top language of skip-duplicate-actions](https://img.shields.io/github/languages/top/fkirc/skip-duplicate-actions)](https://github.com/fkirc/skip-duplicate-actions)
 
 </td></tr></table>
-</p>
+</ul></p>
 </details>
 
 
 <details><summary><strong>❤️ Some of my contributions went to...</strong></summary>
-<p>
+<p><ul>
 <table><tr><td width="500px">
 <p>
 
@@ -126,7 +126,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 [![Top language of kodiak](https://img.shields.io/github/languages/top/chdsbd/kodiak)](https://github.com/chdsbd/kodiak)
 
 </td></tr></table>
-</p>
+</ul></p>
 </details>
 
 <!-- references:end -->
