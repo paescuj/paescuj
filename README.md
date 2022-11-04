@@ -80,7 +80,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <table><tr><td width="500px">
 <p>
 <a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/directus"><b>directus</b></a>
-<br><sub>(contributed with <a href="https://github.com/directus/directus}/pulls?q=author:paescuj+is:merged">90</a> merged pull requests)</sub>
+<br><sub>(contributed with <a href="https://github.com/directus/directus/pulls?q=author:paescuj+is:merged">90</a> merged pull requests)</sub>
 </p>
 
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -93,7 +93,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <table><tr><td width="500px">
 <p>
 <a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
-<br><sub>(contributed with <a href="https://github.com/iconoir-icons/iconoir}/pulls?q=author:paescuj+is:merged">18</a> merged pull requests)</sub>
+<br><sub>(contributed with <a href="https://github.com/iconoir-icons/iconoir/pulls?q=author:paescuj+is:merged">18</a> merged pull requests)</sub>
 </p>
 
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
@@ -106,7 +106,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <table><tr><td width="500px">
 <p>
 <a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a>
-<br><sub>(contributed with <a href="https://github.com/chdsbd/kodiak}/pulls?q=author:paescuj+is:merged">2</a> merged pull requests)</sub>
+<br><sub>(contributed with <a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2</a> merged pull requests)</sub>
 </p>
 
 > 🔮 A bot to automatically update and merge GitHub PRs
