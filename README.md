@@ -17,13 +17,11 @@ As a big fan of open source, I love to contribute to open source projects in my 
 
 <!-- references:start -->
 
-<details><summary><strong>✨ Some of my projects... </strong></summary>
+<details><summary><strong>✨ Some of my own projects...</strong></summary>
 <p><ul>
 <table><tr><td width="500px">
 <p>
-
-[paescuj](https://github.com/paescuj) / [**jaa**](https://github.com/paescuj/jaa)
-
+<a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/jaa"><b>jaa</b></a>
 </p>
 
 > Job Application Assistant - Keep track of your ongoing job applications and impress your future employer with a unique way of applying
@@ -34,9 +32,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
-
-[paescuj](https://github.com/paescuj) / [**universe**](https://github.com/paescuj/universe)
-
+<a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/universe"><b>universe</b></a>
 </p>
 
 > My god, it's full of stars
@@ -53,9 +49,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <p><ul>
 <table><tr><td width="500px">
 <p>
-
-[open-cli-tools](https://github.com/open-cli-tools) / [**concurrently**](https://github.com/open-cli-tools/concurrently)
-
+<a href="https://github.com/open-cli-tools">open-cli-tools</a> / <a href="https://github.com/open-cli-tools/concurrently"><b>concurrently</b></a>
 </p>
 
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
@@ -68,9 +62,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
-
-[fkirc](https://github.com/fkirc) / [**skip-duplicate-actions**](https://github.com/fkirc/skip-duplicate-actions)
-
+<a href="https://github.com/fkirc">fkirc</a> / <a href="https://github.com/fkirc/skip-duplicate-actions"><b>skip-duplicate-actions</b></a>
 </p>
 
 > Save time and cost when using GitHub Actions
@@ -87,9 +79,8 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <p><ul>
 <table><tr><td width="500px">
 <p>
-
-[directus](https://github.com/directus) / [**directus**](https://github.com/directus/directus)
-
+<a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/directus"><b>directus</b></a>
+<br><sub>(contributed with 90 merged pull requests)</sub>
 </p>
 
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -101,9 +92,8 @@ As a big fan of open source, I love to contribute to open source projects in my 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
-
-[iconoir-icons](https://github.com/iconoir-icons) / [**iconoir**](https://github.com/iconoir-icons/iconoir)
-
+<a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
+<br><sub>(contributed with 18 merged pull requests)</sub>
 </p>
 
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
@@ -115,9 +105,8 @@ As a big fan of open source, I love to contribute to open source projects in my 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
-
-[chdsbd](https://github.com/chdsbd) / [**kodiak**](https://github.com/chdsbd/kodiak)
-
+<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a>
+<br><sub>(contributed with 2 merged pull requests)</sub>
 </p>
 
 > 🔮 A bot to automatically update and merge GitHub PRs
