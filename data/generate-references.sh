@@ -53,7 +53,7 @@ yq --output-format json "${SCRIPT_DIR}/references.yml" | jq --compact-output 'to
     if [[ $(echo "$section" | jq '.value.options.contribution') = 'true' ]]; then
       contributionLink="https://github.com/${repo}/pulls?q=author:paescuj+is:merged"
       count=$(curl --silent --header 'Accept: application/vnd.github+json' "https://api.github.com/search/issues?q=repo:${repo}+author:paescuj+is:merged&per_page=1" | jq --raw-output '.total_count')
-      printf '\n<br><sub>(contributed with <a href="%s">%i</a> merged pull requests)</sub>' "$contributionLink" "$count"
+      printf '\n<br><sub>(contributed with <a href="%s">%i merged pull requests</a>)</sub>' "$contributionLink" "$count"
     fi
     printf '\n</p>\n\n'
     printf '> %s\n\n' "$description"
