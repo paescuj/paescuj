@@ -61,7 +61,7 @@ getBadge() {
       local alt="Dependent repos of ${repoInfo[name]}"
       link="https://github.com/${repoInfo[ownerName]}/network/dependents"
       local dependentsHtml=$(curl --silent "$link")
-      local usedBy=$(echo "$dependentsHtml" | tr -d '[:space:]' | sed -n 's/.*type=REPOSITORY.*svg>\(.*\)Repositories.*/\1/' | tr -d ',' | numfmt --to=si --round=nearest)
+      local usedBy=$(echo "$dependentsHtml" | tr -d '[:space:]' | sed 's/.*type=REPOSITORY.*svg>\(.*\)Repositories.*/\1/' | tr -d ',' | numfmt --to=si --round=nearest)
       local url="https://img.shields.io/static/v1?label=Used%20by&message=${usedBy}&color=blue&logo=githubactions&logoColor=white"
       ;;
   esac
@@ -115,11 +115,11 @@ yq --output-format json "${SCRIPT_DIR}/references.yml" | jq --compact-output 'to
       declare -A info=( [ownerName]="$repo" )
       getInfo info
 
-      printf '\n<a href="%s">%s</a> / <a href="%s"><b>%s</b></a>\n' "https://github.com/${info[owner]}" "${info[owner]}" "https://github.com/${repo}" "${info[name]}"
+      printf '\n<a href="%s">%s</a> / <a href="%s"><b>%s</b></a>' "https://github.com/${info[owner]}" "${info[owner]}" "https://github.com/${repo}" "${info[name]}"
 
       if [[ $(echo "$section" | jq '.value.options.contribution') = 'true' ]]; then
         getContribution info
-        printf ' (<i><a href="%s">%i merged pull requests</a></i>)' "${info[contributionLink]}" "${info[contributionCount]}"
+        printf ' <sup>(<a href="%s">%i merged pull requests</a>)</sup>' "${info[contributionLink]}" "${info[contributionCount]}"
       fi
 
       printf '\n<br>%s\n' "${info[description]}"
