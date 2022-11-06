@@ -49,11 +49,9 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <p>
 
 <a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/ctrlc-wrapper"><b>ctrlc-wrapper</b></a>
-
 <br>Wrapper enabling to send CTRL+C signal to child process
 
 <a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/latex-cv"><b>latex-cv</b></a>
-
 <br>LaTeX CV Template
 </p>
 </details>
@@ -73,7 +71,7 @@ As a big fan of open source, I love to contribute to open source projects in my 
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=5.7K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
 [![Weekly downloads of concurrently on NPM](https://img.shields.io/npm/dw/concurrently?label=Downloads&logo=npm)](https://www.npmjs.com/package/concurrently)
-[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
+[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=726K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
 </td></tr></table>
@@ -126,16 +124,13 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <details><summary><strong>Show me more...</strong></summary>
 <p>
 
-<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a>
- (<i><a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a></i>)
+<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a> <sup>(<a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a>)</sup>
 <br>A curated list of awesome things related to Directus
 
-<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a>
- (<i><a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3 merged pull requests</a></i>)
+<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3 merged pull requests</a>)</sup>
 <br>Comments a pull request or commit with the jest code coverage badge, full report and tests summary
 
-<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a>
- (<i><a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2 merged pull requests</a></i>)
+<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2 merged pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
 </p>
 </details>
