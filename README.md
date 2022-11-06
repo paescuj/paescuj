@@ -70,7 +70,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=5.7K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/npm/dw/concurrently?label=Downloads&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=3.3M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=726K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
@@ -104,7 +104,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 [![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=18K&color=blue&logo=github)](https://github.com/directus/directus)
-[![Weekly downloads of directus on NPM](https://img.shields.io/npm/dw/directus?label=Downloads&logo=npm)](https://www.npmjs.com/package/directus)
+[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=6.3K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
 [![Top language of directus](https://img.shields.io/static/v1?label=TypeScript&message=61%25&color=3178c6)](https://github.com/directus/directus)
 
 </td></tr></table>
@@ -118,7 +118,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=2.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/npm/dw/iconoir?label=Downloads&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=447%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=64%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
