@@ -1,5 +1,5 @@
 ✨ Some of my own projects...:
-  repos:
+  main:
     paescuj/jaa:
       badges:
         - license
@@ -8,14 +8,17 @@
       badges:
         - license
         - language
+  more:
+    - paescuj/ctrlc-wrapper
+    - paescuj/latex-cv
 
 👨‍💻 I'm a co-maintainer of...:
-  repos:
+  main:
     open-cli-tools/concurrently:
       badges:
         - stars
-        - downloads
-        - dependent_repos
+        - weekly_downloads
+        - used_by
         - language
     fkirc/skip-duplicate-actions:
       badges:
@@ -25,20 +28,18 @@
 ❤️ Some of my contributions went to...:
   options:
     contribution: true
-  repos:
+  main:
     directus/directus:
-      npm: directus
       badges:
         - stars
-        - downloads
+        - weekly_downloads
         - language
     iconoir-icons/iconoir:
-      npm: iconoir
       badges:
         - stars
-        - downloads
+        - weekly_downloads
         - language
-    chdsbd/kodiak:
-      badges:
-        - stars
-        - language
+  more:
+    - directus-community/awesome-directus
+    - MishaKav/jest-coverage-comment
+    - chdsbd/kodiak
