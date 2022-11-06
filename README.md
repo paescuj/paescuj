@@ -21,100 +21,124 @@ As a big fan of open source, I love to contribute to open source projects in my 
 <p><ul>
 <table><tr><td width="500px">
 <p>
+
 <a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/jaa"><b>jaa</b></a>
+
 </p>
 
 > Job Application Assistant - Keep track of your ongoing job applications and impress your future employer with a unique way of applying
 
-[![License of jaa](https://img.shields.io/github/license/paescuj/jaa?label=License)](https://github.com/paescuj/jaa)
-[![Top language of jaa](https://img.shields.io/github/languages/top/paescuj/jaa)](https://github.com/paescuj/jaa)
+[![License of jaa](https://img.shields.io/static/v1?label=License&message=MIT&color=green)](https://github.com/paescuj/jaa/blob/main/LICENSE)
+[![Top language of jaa](https://img.shields.io/static/v1?label=JavaScript&message=93%25&color=f1e05a)](https://github.com/paescuj/jaa)
 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
+
 <a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/universe"><b>universe</b></a>
+
 </p>
 
 > My god, it's full of stars
 
-[![License of universe](https://img.shields.io/github/license/paescuj/universe?label=License)](https://github.com/paescuj/universe)
-[![Top language of universe](https://img.shields.io/github/languages/top/paescuj/universe)](https://github.com/paescuj/universe)
+[![License of universe](https://img.shields.io/static/v1?label=License&message=MIT&color=green)](https://github.com/paescuj/universe/blob/main/LICENSE)
+[![Top language of universe](https://img.shields.io/static/v1?label=Go&message=100%25&color=00ADD8)](https://github.com/paescuj/universe)
 
 </td></tr></table>
+<details><summary><strong>Show me more...</strong></summary>
+<p>
+
+<a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/ctrlc-wrapper"><b>ctrlc-wrapper</b></a>
+
+<br>Wrapper enabling to send CTRL+C signal to child process
+
+<a href="https://github.com/paescuj">paescuj</a> / <a href="https://github.com/paescuj/latex-cv"><b>latex-cv</b></a>
+
+<br>LaTeX CV Template
+</p>
+</details>
 </ul></p>
 </details>
-
 
 <details><summary><strong>👨‍💻 I'm a co-maintainer of...</strong></summary>
 <p><ul>
 <table><tr><td width="500px">
 <p>
+
 <a href="https://github.com/open-cli-tools">open-cli-tools</a> / <a href="https://github.com/open-cli-tools/concurrently"><b>concurrently</b></a>
+
 </p>
 
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
-[![Stars of concurrently on GitHub](https://img.shields.io/github/stars/open-cli-tools/concurrently?label=Stars&logo=github)](https://github.com/open-cli-tools/concurrently)
+[![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=5.7K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
 [![Weekly downloads of concurrently on NPM](https://img.shields.io/npm/dw/concurrently?label=Downloads&logo=npm)](https://www.npmjs.com/package/concurrently)
-[![Dependent repos of concurrently](https://img.shields.io/librariesio/dependent-repos/npm/concurrently?label=Dependent%20Repos)](https://github.com/open-cli-tools/concurrently)
-[![Top language of concurrently](https://img.shields.io/github/languages/top/open-cli-tools/concurrently)](https://github.com/open-cli-tools/concurrently)
+[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
+[![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
+
 <a href="https://github.com/fkirc">fkirc</a> / <a href="https://github.com/fkirc/skip-duplicate-actions"><b>skip-duplicate-actions</b></a>
+
 </p>
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/github/stars/fkirc/skip-duplicate-actions?label=Stars&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
-[![Top language of skip-duplicate-actions](https://img.shields.io/github/languages/top/fkirc/skip-duplicate-actions)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=325&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
 </td></tr></table>
 </ul></p>
 </details>
 
-
 <details><summary><strong>❤️ Some of my contributions went to...</strong></summary>
 <p><ul>
 <table><tr><td width="500px">
 <p>
+
 <a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/directus"><b>directus</b></a>
 <br><sub>(contributed with <a href="https://github.com/directus/directus/pulls?q=author:paescuj+is:merged">90 merged pull requests</a>)</sub>
 </p>
 
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
-[![Stars of directus on GitHub](https://img.shields.io/github/stars/directus/directus?label=Stars&logo=github)](https://github.com/directus/directus)
+[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=18K&color=blue&logo=github)](https://github.com/directus/directus)
 [![Weekly downloads of directus on NPM](https://img.shields.io/npm/dw/directus?label=Downloads&logo=npm)](https://www.npmjs.com/package/directus)
-[![Top language of directus](https://img.shields.io/github/languages/top/directus/directus)](https://github.com/directus/directus)
+[![Top language of directus](https://img.shields.io/static/v1?label=TypeScript&message=61%25&color=3178c6)](https://github.com/directus/directus)
 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
+
 <a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
 <br><sub>(contributed with <a href="https://github.com/iconoir-icons/iconoir/pulls?q=author:paescuj+is:merged">18 merged pull requests</a>)</sub>
 </p>
 
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
-[![Stars of iconoir on GitHub](https://img.shields.io/github/stars/iconoir-icons/iconoir?label=Stars&logo=github)](https://github.com/iconoir-icons/iconoir)
+[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=2.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
 [![Weekly downloads of iconoir on NPM](https://img.shields.io/npm/dw/iconoir?label=Downloads&logo=npm)](https://www.npmjs.com/package/iconoir)
-[![Top language of iconoir](https://img.shields.io/github/languages/top/iconoir-icons/iconoir)](https://github.com/iconoir-icons/iconoir)
+[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=64%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
-<table><tr><td width="500px">
+<details><summary><strong>Show me more...</strong></summary>
 <p>
+
+<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a>
+ (<i><a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a></i>)
+<br>A curated list of awesome things related to Directus
+
+<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a>
+ (<i><a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3 merged pull requests</a></i>)
+<br>Comments a pull request or commit with the jest code coverage badge, full report and tests summary
+
 <a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a>
-<br><sub>(contributed with <a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2 merged pull requests</a>)</sub>
+ (<i><a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2 merged pull requests</a></i>)
+<br>🔮 A bot to automatically update and merge GitHub PRs
 </p>
-
-> 🔮 A bot to automatically update and merge GitHub PRs
-
-[![Stars of kodiak on GitHub](https://img.shields.io/github/stars/chdsbd/kodiak?label=Stars&logo=github)](https://github.com/chdsbd/kodiak)
-[![Top language of kodiak](https://img.shields.io/github/languages/top/chdsbd/kodiak)](https://github.com/chdsbd/kodiak)
-
-</td></tr></table>
+</details>
 </ul></p>
 </details>
 
