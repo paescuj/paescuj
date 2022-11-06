@@ -6,8 +6,6 @@
 
 set -e
 
-testfailing
-
 readonly _user="${GITHUB_REPOSITORY_OWNER:-paescuj}"
 readonly _scriptDir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
 readonly _curlArgs=('--fail' '--silent')
