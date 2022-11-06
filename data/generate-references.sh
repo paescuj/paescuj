@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+#
+# Sometimes it'super funny to make a hacky bash script
+# if it does not serve any productive purpose :)
+#
 
 USER="${GITHUB_REPOSITORY_OWNER:paescuj}"
 

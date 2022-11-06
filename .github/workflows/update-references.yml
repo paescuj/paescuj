@@ -3,12 +3,13 @@ name: Update References
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *"
+    # Bi-weekly
+    - cron: "0 0 1-7,15-21 * 0"
   push:
     paths:
       - .github/workflows/update-references.yml
       - data/generate-references.sh
-      - data/references.json
+      - data/references.yml
 
 jobs:
   update:
