@@ -7,7 +7,7 @@
 set -e
 
 readonly _user="${GITHUB_REPOSITORY_OWNER:-paescuj}"
-readonly _scriptDir=$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)
+readonly _scriptDir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
 readonly _curlArgs=('--fail' '--silent')
 _languages=''
 _licenses=''
@@ -113,7 +113,6 @@ yq --output-format json "${_scriptDir}/references.yml" | jq --compact-output 'to
     done <<< "$badges"
 
     printf '\n</td></tr></table>\n'
-    (( count++ ))
   done <<< "$main"
 
   more=$(echo "$section" | jq --compact-output --raw-output '.value.more | .[]?')
