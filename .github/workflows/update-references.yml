@@ -27,10 +27,9 @@ jobs:
         content=$(./data/generate-references.sh)
         # Replace content within comments with generated data
         awk -v content="$content" -i inplace '
-            BEGIN {p=1}
-            /^<!-- references:start -->/{print content;p=0}
-            /^<!-- references:end -->/{p=1}
-            p' README.md
+          /^<!-- references:start -->/ {f=1}
+          /^<!-- references:end -->/ && f {print content; f=0}
+          1' README.md
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4

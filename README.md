@@ -15,6 +15,7 @@
 Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Bern <span title="Switzerland">🇨🇭</span>.<br> 
 I love to contribute to open source projects in my free time and occasionally design, realize and publish my own stuff.
 
+<!-- references:start -->
 
 <details><summary><strong>✨ Some of my own projects...</strong></summary>
 <p><ul>
