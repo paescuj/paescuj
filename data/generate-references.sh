@@ -58,7 +58,10 @@ getBadge() {
       ;;
     weekly_downloads)
       local alt="Weekly downloads of ${repoInfo[name]} on NPM"
-      local url="https://img.shields.io/npm/dw/${repoInfo[npm]}?label=Downloads&logo=npm"
+      local downloads=$(curl --silent "https://api.npmjs.org/downloads/point/last-week/${repoInfo[npm]}" | jq '.downloads')
+      local count=$(echo "$downloads" | numfmt --to=si --round=nearest)
+      [[ $downloads -gt 0 ]] && color='brightgreen' || color='red'
+      local url="https://img.shields.io/static/v1?label=Downloads&message=${count}%2Fweek&color=${color}&logo=npm"
       link="https://www.npmjs.com/package/${repoInfo[npm]}"
       ;;
     used_by)
