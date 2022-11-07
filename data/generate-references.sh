@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
-# Sometimes it'super funny to make a hacky bash script
-# if it does not serve any productive purpose :)
+# Sometimes it's super fun to make a hacky bash script
+# if it doesn't serve any productive purpose :)
 #
 
 set -e
@@ -127,7 +127,7 @@ yq --output-format json "${_scriptDir}/references.yml" | jq --compact-output 'to
 
       if [[ $(echo "$section" | jq '.value.options.contribution') = 'true' ]]; then
         getContribution info
-        printf ' <sup>(<a href="%s">%i merged pull requests</a>)</sup>' "${info[contributionLink]}" "${info[contributionCount]}"
+        printf ' <sup>(<a href="%s">%i&nbsp;merged pull requests</a>)</sup>' "${info[contributionLink]}" "${info[contributionCount]}"
       fi
 
       printf '\n<br>%s\n' "${info[description]}"
