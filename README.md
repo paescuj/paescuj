@@ -104,7 +104,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 [![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=18K&color=blue&logo=github)](https://github.com/directus/directus)
-[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=6.3K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
+[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=6.2K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
 [![Top language of directus](https://img.shields.io/static/v1?label=TypeScript&message=61%25&color=3178c6)](https://github.com/directus/directus)
 
 </td></tr></table>
@@ -118,20 +118,20 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=2.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=447%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=448%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=64%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
 <p>
 
-<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a> <sup>(<a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a>)</sup>
+<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a> <sup>(<a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7&nbsp;merged pull requests</a>)</sup>
 <br>A curated list of awesome things related to Directus
 
-<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3 merged pull requests</a>)</sup>
+<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
 <br>Comments a pull request or commit with the jest code coverage badge, full report and tests summary
 
-<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2 merged pull requests</a>)</sup>
+<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
 </p>
 </details>
