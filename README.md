@@ -84,7 +84,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=325&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=326&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=4.8K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
