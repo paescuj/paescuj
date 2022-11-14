@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pascal Jufer's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 5, Total PRs: 300, Total Issues: 66, Contributed to: 22</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 6, Total PRs: 311, Total Issues: 67, Contributed to: 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 104.35964039083238;
+        stroke-dashoffset: 103.42183395998744;
       }
     }
   
@@ -146,7 +146,7 @@
         x="175"
         y="12.5"
         data-testid="stars"
-      >5</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -161,7 +161,7 @@
         x="175"
         y="12.5"
         data-testid="commits"
-      >2.8k</text>
+      >2.9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -176,7 +176,7 @@
         x="175"
         y="12.5"
         data-testid="prs"
-      >300</text>
+      >311</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -191,7 +191,7 @@
         x="175"
         y="12.5"
         data-testid="issues"
-      >66</text>
+      >67</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -206,7 +206,7 @@
         x="175"
         y="12.5"
         data-testid="contribs"
-      >22</text>
+      >25</text>
     </g>
   </g>
     </svg>
