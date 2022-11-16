@@ -3,8 +3,7 @@ name: Update References
 on:
   workflow_dispatch:
   schedule:
-    # Bi-weekly
-    - cron: "0 0 1-7,15-21 * 0"
+    - cron: "0 0 * * mon"
   push:
     paths:
       - .github/workflows/update-references.yml
