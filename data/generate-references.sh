@@ -94,7 +94,7 @@ yq --output-format json "${_scriptDir}/references.yml" | jq --compact-output 'to
     declare -A info=( [ownerName]=$(echo "$repo" | jq --raw-output '.key') )
     getInfo info
     values=$(echo "$repo" | jq --compact-output '.value')
-    badges=$(echo "$values" | jq --compact-output --raw-output '.badges | .[]')
+    badges=$(echo "$values" | jq --compact-output --raw-output '.badges | .[]?')
     info[npm]=$(echo "$values" | jq --raw-output --exit-status '.npm // empty' || printf "${info[name]}")
 
     printf '<table><tr><td width="500px">\n'
@@ -108,30 +108,56 @@ yq --output-format json "${_scriptDir}/references.yml" | jq --compact-output 'to
     printf '\n</p>\n\n'
     printf '> %s\n\n' "${info[description]}"
 
-    while read badge; do
-      printf '%s\n' "$(getBadge info "$badge")"
-    done <<< "$badges"
+    if [[ -n $badges ]]; then
+      while read badge; do
+        printf '%s\n' "$(getBadge info "$badge")"
+      done <<< "$badges"
+      printf '\n'
+    fi
 
-    printf '\n</td></tr></table>\n'
+    printf '</td></tr></table>\n'
   done <<< "$main"
 
-  more=$(echo "$section" | jq --compact-output --raw-output '.value.more | .[]?')
-  if [[ ! -z $more ]]; then
+  more=$(echo "$section" | jq --compact-output '.value.more // [] | to_entries | .[]')
+  if [[ -n $more ]]; then
+    contribution=$(echo "$section" | jq '.value.options.contribution')
+    moreEnriched='[]'
+    while read repo; do
+      declare -A info=( [ownerName]="$(echo $repo | jq --raw-output '.value')" )
+      getInfo info
+      if [[ $contribution = 'true' ]]; then
+        getContribution info
+      fi
+      repoInfo=$(echo "$repo" | jq --compact-output '. + {info: {}}')
+      for key in "${!info[@]}"; do
+        repoInfo=$(echo "$repoInfo" | jq --compact-output --arg key "$key" --arg value "${info[$key]}" '.info += {($key): $value}')
+      done
+      moreEnriched=$(echo "$moreEnriched" | jq --compact-output --argjson repoInfo "$repoInfo" '. + [$repoInfo]')
+    done <<< "$more"
+    if [[ $contribution = 'true' ]]; then
+      repos=$(echo "$moreEnriched" | jq --compact-output 'sort_by(.info.contributionCount | tonumber) | reverse | .[]')
+    else
+      repos=$(echo "$moreEnriched" | jq --compact-output '.[]')
+    fi
+
     printf '<details><summary><strong>Show me more...</strong></summary>\n<p>\n'
 
-    while read repo; do
-      declare -A info=( [ownerName]="$repo" )
-      getInfo info
+    while read -r repo; do
+      ownerName=$(echo "$repo" | jq --raw-output '.info.ownerName')
+      owner=$(echo "$repo" | jq --raw-output '.info.owner')
+      name=$(echo "$repo" | jq --raw-output '.info.name')
+      description=$(echo "$repo" | jq --raw-output '.info.description')
 
-      printf '\n<a href="%s">%s</a> / <a href="%s"><b>%s</b></a>' "https://github.com/${info[owner]}" "${info[owner]}" "https://github.com/${repo}" "${info[name]}"
+      printf '\n<a href="%s">%s</a> / <a href="%s"><b>%s</b></a>' "https://github.com/${owner}" "$owner" "https://github.com/${ownerName}" "$name"
 
-      if [[ $(echo "$section" | jq '.value.options.contribution') = 'true' ]]; then
-        getContribution info
-        printf ' <sup>(<a href="%s">%i&nbsp;merged pull requests</a>)</sup>' "${info[contributionLink]}" "${info[contributionCount]}"
+      if [[ $contribution = 'true' ]]; then
+        contributionLink=$(echo "$repo" | jq --raw-output '.info.contributionLink')
+        contributionCount=$(echo "$repo" | jq --raw-output '.info.contributionCount')
+        printf ' <sup>(<a href="%s">%i&nbsp;merged pull requests</a>)</sup>' "$contributionLink" "$contributionCount"
       fi
 
-      printf '\n<br>%s\n' "${info[description]}"
-    done <<< "$more"
+      printf '\n<br>%s\n' "$description"
+    done <<< "$repos"
 
     printf '</p>\n</details>\n'
   fi
