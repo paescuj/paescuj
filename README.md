@@ -71,7 +71,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=5.7K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
 [![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=3.6M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
-[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=733K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
+[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=734K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
 </td></tr></table>
@@ -84,7 +84,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=328&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=329&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=4.9K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
@@ -118,7 +118,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=2.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=528%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=471%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=64%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -133,6 +133,9 @@ I love to contribute to open source projects in my free time and occasionally de
 
 <a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
+
+<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">1&nbsp;merged pull requests</a>)</sup>
+<br>Display PDFs in your React app as easily as if they were images.
 </p>
 </details>
 </ul></p>
