@@ -128,14 +128,14 @@ I love to contribute to open source projects in my free time and occasionally de
 <a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a> <sup>(<a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7&nbsp;merged pull requests</a>)</sup>
 <br>A curated list of awesome things related to Directus
 
+<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
+<br>Display PDFs in your React app as easily as if they were images.
+
 <a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
 <br>Comments a pull request or commit with the jest code coverage badge, full report and tests summary
 
 <a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
-
-<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
-<br>Display PDFs in your React app as easily as if they were images.
 </p>
 </details>
 </ul></p>
