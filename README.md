@@ -134,7 +134,7 @@ I love to contribute to open source projects in my free time and occasionally de
 <a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
 
-<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">1&nbsp;merged pull requests</a>)</sup>
+<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
 <br>Display PDFs in your React app as easily as if they were images.
 </p>
 </details>
