@@ -25,6 +25,11 @@
         - stars
         - used_by
         - language
+    iconoir-icons/iconoir:
+      badges:
+        - stars
+        - weekly_downloads
+        - language
 
 ❤️ Some of my contributions went to...:
   options:
@@ -35,13 +40,11 @@
         - stars
         - weekly_downloads
         - language
-    iconoir-icons/iconoir:
+    directus-community/awesome-directus:
       badges:
         - stars
-        - weekly_downloads
-        - language
   more:
-    - directus-community/awesome-directus
     - MishaKav/jest-coverage-comment
     - chdsbd/kodiak
     - wojtekmaj/react-pdf
+    - pnpm/pnpm
