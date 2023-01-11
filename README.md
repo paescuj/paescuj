@@ -70,8 +70,8 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=5.8K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=2.8M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
-[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=764K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=3.3M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=765K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
 </td></tr></table>
@@ -84,9 +84,23 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=342&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=343&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=5.1K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
+
+</td></tr></table>
+<table><tr><td width="500px">
+<p>
+
+<a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
+
+</p>
+
+> An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+
+[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=2.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=460%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=64%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
 </ul></p>
@@ -104,35 +118,33 @@ I love to contribute to open source projects in my free time and occasionally de
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 [![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=19K&color=blue&logo=github)](https://github.com/directus/directus)
-[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=7.2K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
+[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=8.2K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
 [![Top language of directus](https://img.shields.io/static/v1?label=TypeScript&message=65%25&color=3178c6)](https://github.com/directus/directus)
 
 </td></tr></table>
 <table><tr><td width="500px">
 <p>
 
-<a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
-<br><sub>(contributed with <a href="https://github.com/iconoir-icons/iconoir/pulls?q=author:paescuj+is:merged">20 merged pull requests</a>)</sub>
+<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a>
+<br><sub>(contributed with <a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a>)</sub>
 </p>
 
-> An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+> A curated list of awesome things related to Directus
 
-[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=2.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=418%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
-[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=64%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
+[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=198&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
 <p>
-
-<a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a> <sup>(<a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7&nbsp;merged pull requests</a>)</sup>
-<br>A curated list of awesome things related to Directus
 
 <a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
 <br>Display PDFs in your React app as easily as if they were images.
 
 <a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
 <br>Comments a pull request or commit with the jest code coverage badge, full report and tests summary
+
+<a href="https://github.com/pnpm">pnpm</a> / <a href="https://github.com/pnpm/pnpm"><b>pnpm</b></a> <sup>(<a href="https://github.com/pnpm/pnpm/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
+<br>Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 
 <a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
