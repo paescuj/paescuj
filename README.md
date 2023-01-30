@@ -162,9 +162,3 @@ I love to contribute to open source projects in my free time and occasionally de
     <img alt="Pascal's GitHub Statistics" src="./data/stats-light.svg">
   </picture>
 </a>
-
-<details><summary><strong>🎊 New Year's Special 🎊</strong></summary>
-
-https://user-images.githubusercontent.com/5363448/210284792-e610e9da-caa6-48d1-8cd0-41a2eb4fcf7d.mp4
-
-</details>
