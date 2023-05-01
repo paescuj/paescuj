@@ -70,8 +70,8 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=6.1K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=3.7M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
-[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=828K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=3.9M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=832K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
 </td></tr></table>
@@ -84,8 +84,8 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=363&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
-[![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=5.6K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=369&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=5.7K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
 </td></tr></table>
@@ -99,7 +99,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=3.2K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=993%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=886%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=70%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -118,7 +118,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 [![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=21K&color=blue&logo=github)](https://github.com/directus/directus)
-[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=10K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
+[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.8K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
 [![Top language of directus](https://img.shields.io/static/v1?label=TypeScript&message=67%25&color=3178c6)](https://github.com/directus/directus)
 
 </td></tr></table>
@@ -131,7 +131,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > A curated list of awesome things related to Directus
 
-[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=243&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
+[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=247&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
