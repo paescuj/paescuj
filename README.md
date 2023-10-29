@@ -69,10 +69,24 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
-[![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=6.4K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=4.3M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
-[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=946K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
+[![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=6.5K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=4.2M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=952K&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=94%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
+
+</td></tr></table>
+<table><tr><td width="500px">
+<p>
+
+<a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
+
+</p>
+
+> An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+
+[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=3.5K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=1.2K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=58%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
 <table><tr><td width="500px">
@@ -84,23 +98,9 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=404&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
-[![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=6.4K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=407&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=6.5K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
-
-</td></tr></table>
-<table><tr><td width="500px">
-<p>
-
-<a href="https://github.com/iconoir-icons">iconoir-icons</a> / <a href="https://github.com/iconoir-icons/iconoir"><b>iconoir</b></a>
-
-</p>
-
-> An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
-
-[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=3.4K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=943%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
-[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=54%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
 </ul></p>
@@ -111,27 +111,13 @@ I love to contribute to open source projects in my free time and occasionally de
 <table><tr><td width="500px">
 <p>
 
-<a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/directus"><b>directus</b></a>
-<br><sub>(contributed with <a href="https://github.com/directus/directus/pulls?q=author:paescuj+is:merged">306 merged pull requests</a>)</sub>
-</p>
-
-> The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-
-[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=23K&color=blue&logo=github)](https://github.com/directus/directus)
-[![Weekly downloads of directus on NPM](https://img.shields.io/static/v1?label=Downloads&message=11K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/directus)
-[![Top language of directus](https://img.shields.io/static/v1?label=TypeScript&message=71%25&color=3178c6)](https://github.com/directus/directus)
-
-</td></tr></table>
-<table><tr><td width="500px">
-<p>
-
 <a href="https://github.com/directus-community">directus-community</a> / <a href="https://github.com/directus-community/awesome-directus"><b>awesome-directus</b></a>
 <br><sub>(contributed with <a href="https://github.com/directus-community/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a>)</sub>
 </p>
 
 > A curated list of awesome things related to Directus
 
-[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=343&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
+[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=352&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
