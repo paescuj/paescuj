@@ -20,26 +20,21 @@
         - weekly_downloads
         - used_by
         - language
-    fkirc/skip-duplicate-actions:
-      badges:
-        - stars
-        - used_by
-        - language
     iconoir-icons/iconoir:
       badges:
         - stars
         - weekly_downloads
+        - language
+    fkirc/skip-duplicate-actions:
+      badges:
+        - stars
+        - used_by
         - language
 
 ❤️ Some of my contributions went to...:
   options:
     contribution: true
   main:
-    directus/directus:
-      badges:
-        - stars
-        - weekly_downloads
-        - language
     directus-community/awesome-directus:
       badges:
         - stars
