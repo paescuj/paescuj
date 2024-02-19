@@ -85,8 +85,8 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=3.6K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=1.3K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
-[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=60%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=1.6K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=61%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
 <table><tr><td width="500px">
@@ -98,7 +98,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=419&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=420&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=6.9K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
@@ -117,7 +117,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > A curated list of awesome things related to Directus
 
-[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=422&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
+[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=425&color=blue&logo=github)](https://github.com/directus-community/awesome-directus)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
