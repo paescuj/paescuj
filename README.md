@@ -70,7 +70,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.2K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=6.1M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=5.9M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=1.3M&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=95%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
@@ -85,8 +85,8 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=3.9K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=5.9K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
-[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=60%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=5.5K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=61%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
 <table><tr><td width="500px">
