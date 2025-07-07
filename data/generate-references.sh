@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #
-# Sometimes it's super fun to make a hacky bash script
-# if it doesn't serve any productive purpose :)
+# Hacky bash script FTW :)
 #
 
 set -e
