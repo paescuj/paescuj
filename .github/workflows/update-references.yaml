@@ -6,9 +6,9 @@ on:
     - cron: "0 0 * * mon"
   push:
     paths:
-      - .github/workflows/update-references.yml
+      - .github/workflows/update-references.yaml
       - data/generate-references.sh
-      - data/references.yml
+      - data/references.yaml
 
 jobs:
   update:
@@ -16,9 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v5
 
     - name: Update references
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         # Ensure comments are present
         grep -Pzq '<!-- references:start -->(\n|.)*<!-- references:end -->' README.md
@@ -32,6 +34,6 @@ jobs:
           p' README.md
 
     - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Update references

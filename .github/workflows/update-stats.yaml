@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v5
 
     - name: Fetch stats
       run: |
@@ -19,6 +19,6 @@ jobs:
         wget -q -O data/stats-dark.svg 'https://github-readme-stats.vercel.app/api?username=paescuj&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&include_all_commits=true&card_width=500px'
 
     - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Update stats
