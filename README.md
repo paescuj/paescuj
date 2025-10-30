@@ -70,7 +70,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.5K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.4M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.7M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=1.7M&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=95%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
@@ -85,7 +85,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=4.3K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=8.0K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.9K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=60%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -111,29 +111,59 @@ I love to contribute to open source projects in my free time and occasionally de
 <table><tr><td width="500px">
 <p>
 
-<a href="https://github.com/directus-labs">directus-labs</a> / <a href="https://github.com/directus-labs/awesome-directus"><b>awesome-directus</b></a>
-<br><sub>(contributed with <a href="https://github.com/directus-labs/awesome-directus/pulls?q=author:paescuj+is:merged">7 merged pull requests</a>)</sub>
+<a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/directus"><b>directus</b></a>
+<br><sub>(contributed with <a href="https://github.com/directus/directus/pulls?q=author:paescuj">626 pull requests</a>)</sub>
 </p>
 
-> A curated list of awesome things related to Directus
+> The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
-[![Stars of awesome-directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=620&color=blue&logo=github)](https://github.com/directus-labs/awesome-directus)
+[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=33K&color=blue&logo=github)](https://github.com/directus/directus)
+
+</td></tr></table>
+<table><tr><td width="500px">
+<p>
+
+<a href="https://github.com/vitest-dev">vitest-dev</a> / <a href="https://github.com/vitest-dev/eslint-plugin-vitest"><b>eslint-plugin-vitest</b></a>
+<br><sub>(contributed with <a href="https://github.com/vitest-dev/eslint-plugin-vitest/pulls?q=author:paescuj">18 pull requests</a>)</sub>
+</p>
+
+> eslint plugin for vitest
+
+[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=443&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
 <p>
 
-<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj+is:merged">5&nbsp;merged pull requests</a>)</sup>
+<a href="https://github.com/directus-labs">directus-labs</a> / <a href="https://github.com/directus-labs/awesome-directus"><b>awesome-directus</b></a> <sup>(<a href="https://github.com/directus-labs/awesome-directus/pulls?q=author:paescuj">8&nbsp;pull requests</a>)</sup>
+<br>A curated list of awesome things related to Directus
+
+<a href="https://github.com/wojtekmaj">wojtekmaj</a> / <a href="https://github.com/wojtekmaj/react-pdf"><b>react-pdf</b></a> <sup>(<a href="https://github.com/wojtekmaj/react-pdf/pulls?q=author:paescuj">5&nbsp;pull requests</a>)</sup>
 <br>Display PDFs in your React app as easily as if they were images.
 
-<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj+is:merged">3&nbsp;merged pull requests</a>)</sup>
+<a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/stale-issues-action"><b>stale-issues-action</b></a> <sup>(<a href="https://github.com/directus/stale-issues-action/pulls?q=author:paescuj">5&nbsp;pull requests</a>)</sup>
+<br>GitHub Action for closing stale issues.
+
+<a href="https://github.com/MishaKav">MishaKav</a> / <a href="https://github.com/MishaKav/jest-coverage-comment"><b>jest-coverage-comment</b></a> <sup>(<a href="https://github.com/MishaKav/jest-coverage-comment/pulls?q=author:paescuj">4&nbsp;pull requests</a>)</sup>
 <br>Comments a pull request or commit with the jest code coverage badge, full report and tests summary
 
-<a href="https://github.com/pnpm">pnpm</a> / <a href="https://github.com/pnpm/pnpm"><b>pnpm</b></a> <sup>(<a href="https://github.com/pnpm/pnpm/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
+<a href="https://github.com/codex-team">codex-team</a> / <a href="https://github.com/codex-team/editor.js"><b>editor.js</b></a> <sup>(<a href="https://github.com/codex-team/editor.js/pulls?q=author:paescuj">4&nbsp;pull requests</a>)</sup>
+<br>A block-style editor with clean JSON output
+
+<a href="https://github.com/pnpm">pnpm</a> / <a href="https://github.com/pnpm/pnpm"><b>pnpm</b></a> <sup>(<a href="https://github.com/pnpm/pnpm/pulls?q=author:paescuj">2&nbsp;pull requests</a>)</sup>
 <br>Fast, disk space efficient package manager
 
-<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj+is:merged">2&nbsp;merged pull requests</a>)</sup>
+<a href="https://github.com/chdsbd">chdsbd</a> / <a href="https://github.com/chdsbd/kodiak"><b>kodiak</b></a> <sup>(<a href="https://github.com/chdsbd/kodiak/pulls?q=author:paescuj">2&nbsp;pull requests</a>)</sup>
 <br>🔮 A bot to automatically update and merge GitHub PRs
+
+<a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/tsconfig"><b>tsconfig</b></a> <sup>(<a href="https://github.com/directus/tsconfig/pulls?q=author:paescuj">2&nbsp;pull requests</a>)</sup>
+<br>TSConfig files used in Directus projects.
+
+<a href="https://github.com/DefinitelyTyped">DefinitelyTyped</a> / <a href="https://github.com/DefinitelyTyped/DefinitelyTyped"><b>DefinitelyTyped</b></a> <sup>(<a href="https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author:paescuj">1&nbsp;pull request</a>)</sup>
+<br>The repository for high quality TypeScript type definitions.
+
+<a href="https://github.com/directus">directus</a> / <a href="https://github.com/directus/eslint-config"><b>eslint-config</b></a> <sup>(<a href="https://github.com/directus/eslint-config/pulls?q=author:paescuj">1&nbsp;pull request</a>)</sup>
+<br>Shared ESLint config used in Directus projects
 </p>
 </details>
 </ul></p>
