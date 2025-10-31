@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Biel <span title="Switzerland">🇨🇭</span>
+### Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Biel <span title="Switzerland">🇨🇭</span>
 
 I love to contribute to open source projects in my free time and occasionally design, realize and publish my own stuff.
 
@@ -167,8 +167,6 @@ I love to contribute to open source projects in my free time and occasionally de
 <!-- references:end -->
 
 ##
-
-[![Become a Sponsor](https://img.shields.io/static/v1?label=Become%20a%20Sponsor&message=<3&logo=github&color=D87CAC)](https://github.com/sponsors/paescuj)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
