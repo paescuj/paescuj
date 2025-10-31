@@ -1,13 +1,14 @@
 <!-- HELO from the other side! -->
 
-<a href="https://iconoir.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./data/peace-hand-dark.svg">
-    <img alt="Peace Hand" align="right" width="20%" src="./data/peace-hand-light.svg">
-  </picture>
-</a>
-
-### Hi! I'm **Pascal**, a `/(System Engineer|DevOps|Developer)/` from Biel <span title="Switzerland">🇨🇭</span>
+<h3>
+	<a href="https://iconoir.com">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="./data/peace-hand-dark.svg">
+			<img alt="Peace Hand" align="right" width="20%" src="./data/peace-hand-light.svg">
+		</picture>
+    </a>
+	Hi! I'm Pascal, a <code>/(System Engineer|DevOps|Developer)/</code> from Biel <span title="Switzerland">🇨🇭</span>
+</h3>
 
 I love to contribute to open source projects in my free time and occasionally design, realize and publish my own stuff.
 
@@ -169,8 +170,8 @@ I love to contribute to open source projects in my free time and occasionally de
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./data/stats-dark.svg">
-    <img alt="Pascal's GitHub Statistics" src="./data/stats-light.svg">
-  </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./data/stats-dark.svg">
+        <img alt="Pascal's GitHub Statistics" src="./data/stats-light.svg">
+    </picture>
 </a>
