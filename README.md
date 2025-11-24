@@ -67,7 +67,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.6K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.4M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.7M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=1.7M&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=95%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
@@ -82,7 +82,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=4.3K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=8.3K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.4K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=60%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -95,7 +95,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=516&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=518&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=9.2K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
@@ -114,7 +114,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
-[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=33K&color=blue&logo=github)](https://github.com/directus/directus)
+[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=34K&color=blue&logo=github)](https://github.com/directus/directus)
 
 </td></tr></table>
 <table><tr><td width="500px">
@@ -126,7 +126,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > eslint plugin for vitest
 
-[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=444&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
+[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=445&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
