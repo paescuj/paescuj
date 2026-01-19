@@ -67,7 +67,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.6K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=9.4M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=10M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=1.7M&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=95%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
@@ -82,7 +82,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=4.3K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=6.8K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=7.5K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=60%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -126,7 +126,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > eslint plugin for vitest
 
-[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=457&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
+[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=462&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
