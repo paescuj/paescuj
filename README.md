@@ -82,7 +82,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
 [![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=4.3K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=7.9K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=11K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=60%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -126,7 +126,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > eslint plugin for vitest
 
-[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=462&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
+[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=463&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
