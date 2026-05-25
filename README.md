@@ -67,7 +67,7 @@ I love to contribute to open source projects in my free time and occasionally de
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 [![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.8K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
-[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=14M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
+[![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=18M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=1.7M&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=96%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
 
@@ -95,7 +95,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=535&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=536&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=9.6K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
