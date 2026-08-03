@@ -95,7 +95,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=534&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=533&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
 [![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=9.7K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
@@ -126,7 +126,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > eslint plugin for vitest
 
-[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=494&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
+[![Stars of eslint-plugin-vitest on GitHub](https://img.shields.io/static/v1?label=Stars&message=496&color=blue&logo=github)](https://github.com/vitest-dev/eslint-plugin-vitest)
 
 </td></tr></table>
 <details><summary><strong>Show me more...</strong></summary>
