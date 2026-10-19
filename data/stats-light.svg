@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pascal Jufer's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 34, Total Commits  : 19852, Total PRs: 977, Total Issues: 89, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 34, Total Commits  : 19865, Total PRs: 977, Total Issues: 89, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.75294397316712;
+        stroke-dashoffset: 73.88728480617917;
       }
     }
   
