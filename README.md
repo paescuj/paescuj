@@ -66,7 +66,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
-[![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.9K&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
+[![Stars of concurrently on GitHub](https://img.shields.io/static/v1?label=Stars&message=7.9k&color=blue&logo=github)](https://github.com/open-cli-tools/concurrently)
 [![Weekly downloads of concurrently on NPM](https://img.shields.io/static/v1?label=Downloads&message=29M%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/concurrently)
 [![Dependent repos of concurrently](https://img.shields.io/static/v1?label=Used%20by&message=1.7M&color=blue&logo=githubactions&logoColor=white)](https://github.com/open-cli-tools/concurrently/network/dependents)
 [![Top language of concurrently](https://img.shields.io/static/v1?label=TypeScript&message=99%25&color=3178c6)](https://github.com/open-cli-tools/concurrently)
@@ -81,8 +81,8 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 
-[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=4.6K&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
-[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=46K%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
+[![Stars of iconoir on GitHub](https://img.shields.io/static/v1?label=Stars&message=4.6k&color=blue&logo=github)](https://github.com/iconoir-icons/iconoir)
+[![Weekly downloads of iconoir on NPM](https://img.shields.io/static/v1?label=Downloads&message=46k%2Fweek&color=brightgreen&logo=npm)](https://www.npmjs.com/package/iconoir)
 [![Top language of iconoir](https://img.shields.io/static/v1?label=TypeScript&message=61%25&color=3178c6)](https://github.com/iconoir-icons/iconoir)
 
 </td></tr></table>
@@ -95,8 +95,8 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > Save time and cost when using GitHub Actions
 
-[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=539&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
-[![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=9.9K&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
+[![Stars of skip-duplicate-actions on GitHub](https://img.shields.io/static/v1?label=Stars&message=540&color=blue&logo=github)](https://github.com/fkirc/skip-duplicate-actions)
+[![Dependent repos of skip-duplicate-actions](https://img.shields.io/static/v1?label=Used%20by&message=10k&color=blue&logo=githubactions&logoColor=white)](https://github.com/fkirc/skip-duplicate-actions/network/dependents)
 [![Top language of skip-duplicate-actions](https://img.shields.io/static/v1?label=TypeScript&message=100%25&color=3178c6)](https://github.com/fkirc/skip-duplicate-actions)
 
 </td></tr></table>
@@ -114,7 +114,7 @@ I love to contribute to open source projects in my free time and occasionally de
 
 > The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
-[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=39K&color=blue&logo=github)](https://github.com/directus/directus)
+[![Stars of directus on GitHub](https://img.shields.io/static/v1?label=Stars&message=39k&color=blue&logo=github)](https://github.com/directus/directus)
 
 </td></tr></table>
 <table><tr><td width="500px">
